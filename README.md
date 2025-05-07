@@ -51,7 +51,3 @@ The **E-Commerce Sales Dashboard** provides insights into:
 ### 📷 Preview
 
 ![image](https://github.com/user-attachments/assets/a7929981-d66d-453b-9abd-e2048ac2652c)
-
-### 📎 License
-
-This project is licensed under the [MIT License](LICENSE).
